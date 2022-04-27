@@ -2,8 +2,8 @@
 
 **ItemData**: a data object class
 
-**BSTNode**:
+**BSTNode**: a binary search tree node
 
-**BSTTree**:
+**BSTTree**: a binary search tree
 
 **Runner**: tests BSTTree and BSTNode in main
